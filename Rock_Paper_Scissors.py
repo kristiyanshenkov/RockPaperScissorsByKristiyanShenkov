@@ -33,4 +33,4 @@ elif players_move == computer_move:
     print('Draw!')
 else:
     print('You lose!')
-# print(f'The computer chose: {computer_move}')
+
