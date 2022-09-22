@@ -3,7 +3,6 @@ import random
 rock = 'Rock'
 paper = 'Paper'
 scissors = 'Scissors'
-
 players_move = input('Choose [r]ock, [p]aper or [s]cissors: ')
 
 if players_move == 'r':
